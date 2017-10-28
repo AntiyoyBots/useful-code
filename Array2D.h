@@ -1,4 +1,3 @@
-#include "General.h"
 #include "Exceptions.h"
 
 namespace Game
